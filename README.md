@@ -1,4 +1,4 @@
-# Web Design
+# JavaScript Challenges & solutions.
 
 <p> 
 Hi :wave: Coders!
